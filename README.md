@@ -1,5 +1,5 @@
 # learning
-learning everything
+学海无涯，学无止尽
 
 ## Contents
 
