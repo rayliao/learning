@@ -9,6 +9,10 @@
 ## TOC <!-- omit in toc -->
 - [经济学](#经济学)
 - [理学](#理学)
+- [教育学](#教育学)
+- [文学](#文学)
+- [艺术学](#艺术学)
+- [生活学](#生活学)
 
 ### 经济学
 - [股票入门](/economics/stock.md)
@@ -16,3 +20,12 @@
 
 ### 理学
 - [系统集成项目管理工程师](/science/si.md) - 中级职称，广州入户 :on:
+
+### 教育学
+
+### 文学
+
+- [LearningEnglish](https://github.com/rayliao/LearningEnglish)
+
+### 艺术学
+### 生活学
