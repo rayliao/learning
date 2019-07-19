@@ -11,8 +11,9 @@
 - [理学](#理学)
 
 ### 经济学
-- [股票入门](/economics/stock.md)
-- [证劵从业资格考试](/economics/sac.md)
+- [股票入门](/economics/stock.md) :back:
+- [证劵从业资格考试](/economics/sac.md) :soon:
 
 ### 理学
-- [系统集成项目管理工程师](/science/sipme.md) - 中级职称，广州入户
+- [系统集成项目管理工程师](/science/si.md) - 中级职称，广州入户 :on:
+- :end:
