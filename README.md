@@ -15,17 +15,24 @@
 - [生活学](#生活学)
 
 ### 经济学
+
 - [股票入门](/economics/stock.md)
 - [证劵从业资格考试](/economics/sac.md) :soon:
 
 ### 理学
+
 - [系统集成项目管理工程师](/science/si.md) - 中级职称，广州入户 :on:
+- [LearningGo](https://github.com/rayliao/LearningGo)
 
 ### 教育学
 
 ### 文学
 
 - [LearningEnglish](https://github.com/rayliao/LearningEnglish)
+- [LearningJapanese](https://github.com/rayliao/LearningJapanese)
 
 ### 艺术学
+
+- [LearningDesign](https://github.com/rayliao/LearningDesign)
+
 ### 生活学
