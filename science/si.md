@@ -10,7 +10,7 @@
 
 **报名时间：预计2019年9月3日至9月17日**
 
-报名地址：http://rsks.gd.gov.cn/
+报名地址：http://bm.ruankao.org.cn/sign/welcome
 
 **考试时间：11月9号**
 
